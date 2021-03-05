@@ -39,7 +39,7 @@ namespace hTimer
             // btnStartStop
             // 
             this.btnStartStop.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnStartStop.Location = new System.Drawing.Point(168, 145);
+            this.btnStartStop.Location = new System.Drawing.Point(194, 145);
             this.btnStartStop.Name = "btnStartStop";
             this.btnStartStop.Size = new System.Drawing.Size(94, 29);
             this.btnStartStop.TabIndex = 0;
@@ -64,7 +64,7 @@ namespace hTimer
             // 
             // btnReset
             // 
-            this.btnReset.Location = new System.Drawing.Point(120, 145);
+            this.btnReset.Location = new System.Drawing.Point(146, 145);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(42, 29);
             this.btnReset.TabIndex = 2;
